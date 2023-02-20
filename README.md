@@ -17,6 +17,6 @@ The modulation type for the first applied Bluetooth technology in version 1 was 
 
 ## Implementation Steps:
 
-            1) Simulating the Bluetooth Communication System especially for the modulation and demodulation parts (π/4 DQPSK, 8-DPSK) using MATLAB and LabView.
-            2) Plotting the constellation of the healthy signal and the noisy signals in both MATLAB and LabView.
-            3) Transmitting an audio signal using the system.
+        1) Simulating the Bluetooth Communication System especially for the modulation and demodulation parts (π/4 DQPSK, 8-DPSK) using MATLAB and LabView.
+        2) Plotting the constellation of the healthy signal and the noisy signals in both MATLAB and LabView.
+        3) Transmitting an audio signal using the system.
