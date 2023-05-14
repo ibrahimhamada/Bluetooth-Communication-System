@@ -1,4 +1,4 @@
-# Implementation-of-Bluetooth-Communication-System
+# Bluetooth-Communication-System
 
 My Project of the Digital and Wireless Communications Course Offered in Fall 2021 @ Zewail City.
 
